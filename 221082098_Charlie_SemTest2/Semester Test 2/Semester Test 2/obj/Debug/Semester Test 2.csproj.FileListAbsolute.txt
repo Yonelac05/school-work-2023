@@ -1,0 +1,25 @@
+T:\Semester Test 2\Semester Test 2\obj\Debug\Semester Test 2.csprojAssemblyReference.cache
+T:\Semester Test 2\Semester Test 2\obj\Debug\Semester Test 2.csproj.CoreCompileInputs.cache
+T:\Semester Test 2\Semester Test 2\bin\Debug\Semester Test 2.exe.config
+T:\Semester Test 2\Semester Test 2\bin\Debug\Semester Test 2.exe
+T:\Semester Test 2\Semester Test 2\bin\Debug\Semester Test 2.pdb
+T:\Semester Test 2\Semester Test 2\bin\Debug\LogicLayer.dll
+T:\Semester Test 2\Semester Test 2\bin\Debug\DataLayer.dll
+T:\Semester Test 2\Semester Test 2\bin\Debug\LogicLayer.pdb
+T:\Semester Test 2\Semester Test 2\bin\Debug\DataLayer.pdb
+T:\Semester Test 2\Semester Test 2\obj\Debug\Semester Test 2.csproj.CopyComplete
+T:\Semester Test 2\Semester Test 2\obj\Debug\Semester Test 2.exe
+T:\Semester Test 2\Semester Test 2\obj\Debug\Semester Test 2.pdb
+C:\Users\hp\Downloads\221082098_Charlie_SemTest2\Semester Test 2\Semester Test 2\bin\Debug\Semester Test 2.exe.config
+C:\Users\hp\Downloads\221082098_Charlie_SemTest2\Semester Test 2\Semester Test 2\bin\Debug\Semester Test 2.exe
+C:\Users\hp\Downloads\221082098_Charlie_SemTest2\Semester Test 2\Semester Test 2\bin\Debug\Semester Test 2.pdb
+C:\Users\hp\Downloads\221082098_Charlie_SemTest2\Semester Test 2\Semester Test 2\bin\Debug\LogicLayer.dll
+C:\Users\hp\Downloads\221082098_Charlie_SemTest2\Semester Test 2\Semester Test 2\bin\Debug\DataLayer.dll
+C:\Users\hp\Downloads\221082098_Charlie_SemTest2\Semester Test 2\Semester Test 2\bin\Debug\LogicLayer.pdb
+C:\Users\hp\Downloads\221082098_Charlie_SemTest2\Semester Test 2\Semester Test 2\bin\Debug\DataLayer.pdb
+C:\Users\hp\Downloads\221082098_Charlie_SemTest2\Semester Test 2\Semester Test 2\obj\Debug\Semester Test 2.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\221082098_Charlie_SemTest2\Semester Test 2\Semester Test 2\obj\Debug\Semester Test 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Downloads\221082098_Charlie_SemTest2\Semester Test 2\Semester Test 2\obj\Debug\Semester Test 2.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\221082098_Charlie_SemTest2\Semester Test 2\Semester Test 2\obj\Debug\Semester Test 2.csproj.CopyComplete
+C:\Users\hp\Downloads\221082098_Charlie_SemTest2\Semester Test 2\Semester Test 2\obj\Debug\Semester Test 2.exe
+C:\Users\hp\Downloads\221082098_Charlie_SemTest2\Semester Test 2\Semester Test 2\obj\Debug\Semester Test 2.pdb

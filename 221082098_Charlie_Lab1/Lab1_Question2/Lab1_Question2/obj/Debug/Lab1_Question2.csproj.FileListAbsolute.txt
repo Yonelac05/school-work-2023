@@ -1,0 +1,11 @@
+C:\Users\Test Pc\source\repos\Lab1_Question2\Lab1_Question2\bin\Debug\Lab1_Question2.exe.config
+C:\Users\Test Pc\source\repos\Lab1_Question2\Lab1_Question2\bin\Debug\Lab1_Question2.exe
+C:\Users\Test Pc\source\repos\Lab1_Question2\Lab1_Question2\bin\Debug\Lab1_Question2.pdb
+C:\Users\Test Pc\source\repos\Lab1_Question2\Lab1_Question2\obj\Debug\Lab1_Question2.csproj.AssemblyReference.cache
+C:\Users\Test Pc\source\repos\Lab1_Question2\Lab1_Question2\obj\Debug\Lab1_Question2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Test Pc\source\repos\Lab1_Question2\Lab1_Question2\obj\Debug\Lab1_Question2.Form1.resources
+C:\Users\Test Pc\source\repos\Lab1_Question2\Lab1_Question2\obj\Debug\Lab1_Question2.Properties.Resources.resources
+C:\Users\Test Pc\source\repos\Lab1_Question2\Lab1_Question2\obj\Debug\Lab1_Question2.csproj.GenerateResource.cache
+C:\Users\Test Pc\source\repos\Lab1_Question2\Lab1_Question2\obj\Debug\Lab1_Question2.csproj.CoreCompileInputs.cache
+C:\Users\Test Pc\source\repos\Lab1_Question2\Lab1_Question2\obj\Debug\Lab1_Question2.exe
+C:\Users\Test Pc\source\repos\Lab1_Question2\Lab1_Question2\obj\Debug\Lab1_Question2.pdb

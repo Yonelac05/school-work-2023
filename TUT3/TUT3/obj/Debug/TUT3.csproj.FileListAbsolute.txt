@@ -1,0 +1,16 @@
+C:\TUT3\TUT3\bin\Debug\TUT3.exe.config
+C:\TUT3\TUT3\bin\Debug\TUT3.exe
+C:\TUT3\TUT3\bin\Debug\TUT3.pdb
+C:\TUT3\TUT3\bin\Debug\BusinessLayer.dll
+C:\TUT3\TUT3\bin\Debug\BusinessLayer.pdb
+C:\TUT3\TUT3\obj\Debug\TUT3.csproj.AssemblyReference.cache
+C:\TUT3\TUT3\obj\Debug\TUT3.csproj.SuggestedBindingRedirects.cache
+C:\TUT3\TUT3\obj\Debug\TUT3.Form1.resources
+C:\TUT3\TUT3\obj\Debug\TUT3.Properties.Resources.resources
+C:\TUT3\TUT3\obj\Debug\TUT3.csproj.GenerateResource.cache
+C:\TUT3\TUT3\obj\Debug\TUT3.csproj.CoreCompileInputs.cache
+C:\TUT3\TUT3\obj\Debug\TUT3.csproj.CopyComplete
+C:\TUT3\TUT3\obj\Debug\TUT3.exe
+C:\TUT3\TUT3\obj\Debug\TUT3.pdb
+C:\TUT3\TUT3\bin\Debug\DataLayer.dll
+C:\TUT3\TUT3\bin\Debug\DataLayer.pdb

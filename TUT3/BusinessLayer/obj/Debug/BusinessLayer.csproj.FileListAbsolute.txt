@@ -1,0 +1,9 @@
+C:\TUT3\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\TUT3\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\TUT3\BusinessLayer\bin\Debug\DataLayer.dll
+C:\TUT3\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\TUT3\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\TUT3\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\TUT3\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\TUT3\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\TUT3\BusinessLayer\obj\Debug\BusinessLayer.pdb

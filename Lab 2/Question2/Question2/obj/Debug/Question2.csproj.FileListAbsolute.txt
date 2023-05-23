@@ -1,0 +1,11 @@
+C:\Question2\Question2\bin\Debug\Question2.exe.config
+C:\Question2\Question2\bin\Debug\Question2.exe
+C:\Question2\Question2\bin\Debug\Question2.pdb
+C:\Question2\Question2\obj\Debug\Question2.csproj.AssemblyReference.cache
+C:\Question2\Question2\obj\Debug\Question2.csproj.SuggestedBindingRedirects.cache
+C:\Question2\Question2\obj\Debug\Question2.Form1.resources
+C:\Question2\Question2\obj\Debug\Question2.Properties.Resources.resources
+C:\Question2\Question2\obj\Debug\Question2.csproj.GenerateResource.cache
+C:\Question2\Question2\obj\Debug\Question2.csproj.CoreCompileInputs.cache
+C:\Question2\Question2\obj\Debug\Question2.exe
+C:\Question2\Question2\obj\Debug\Question2.pdb

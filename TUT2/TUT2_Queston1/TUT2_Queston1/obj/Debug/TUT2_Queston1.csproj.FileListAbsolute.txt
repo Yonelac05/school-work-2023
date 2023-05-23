@@ -1,0 +1,8 @@
+C:\Users\Test Pc\Desktop\TUT2\TUT2_Queston1\TUT2_Queston1\bin\Debug\TUT2_Queston1.exe.config
+C:\Users\Test Pc\Desktop\TUT2\TUT2_Queston1\TUT2_Queston1\bin\Debug\TUT2_Queston1.exe
+C:\Users\Test Pc\Desktop\TUT2\TUT2_Queston1\TUT2_Queston1\bin\Debug\TUT2_Queston1.pdb
+C:\Users\Test Pc\Desktop\TUT2\TUT2_Queston1\TUT2_Queston1\obj\Debug\TUT2_Queston1.csproj.AssemblyReference.cache
+C:\Users\Test Pc\Desktop\TUT2\TUT2_Queston1\TUT2_Queston1\obj\Debug\TUT2_Queston1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Test Pc\Desktop\TUT2\TUT2_Queston1\TUT2_Queston1\obj\Debug\TUT2_Queston1.csproj.CoreCompileInputs.cache
+C:\Users\Test Pc\Desktop\TUT2\TUT2_Queston1\TUT2_Queston1\obj\Debug\TUT2_Queston1.exe
+C:\Users\Test Pc\Desktop\TUT2\TUT2_Queston1\TUT2_Queston1\obj\Debug\TUT2_Queston1.pdb
